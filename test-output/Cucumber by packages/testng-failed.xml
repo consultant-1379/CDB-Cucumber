@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Cucumber by packages]">
+  <test name="AdminUI_Adapter_Execution_Test(failed)">
+    <classes>
+      <class name="AdminUI_Adapter_Execution_Test.StepDef_AdminUI">
+        <methods>
+          <include name="difference_should_be_less_than_minutes"/>
+        </methods>
+      </class> <!-- AdminUI_Adapter_Execution_Test.StepDef_AdminUI -->
+    </classes>
+  </test> <!-- AdminUI_Adapter_Execution_Test(failed) -->
+</suite> <!-- Failed suite [Cucumber by packages] -->

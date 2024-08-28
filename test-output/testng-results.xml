@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9153" started-at="2018-02-28T05:02:26Z" finished-at="2018-02-28T05:02:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9153" started-at="2018-02-28T05:02:26Z" finished-at="2018-02-28T05:02:36Z">
+      <class name="AdminUI.StepDef_AdminUI">
+        <test-method status="PASS" signature="open_Chrome_and_start_application_and_naviagte_to_adminUI_URL()[pri:0, instance:AdminUI.StepDef_AdminUI@b648925]" name="open_Chrome_and_start_application_and_naviagte_to_adminUI_URL" duration-ms="9077" started-at="2018-02-28T06:02:27Z" finished-at="2018-02-28T06:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Chrome_and_start_application_and_naviagte_to_adminUI_URL -->
+      </class> <!-- AdminUI.StepDef_AdminUI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

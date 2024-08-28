@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="AdminUI_Adapter_Execution_Test.StepDef_AdminUI">
+        <methods>
+          <include name="difference_should_be_less_than_minutes"/>
+          <include name="select_set_type_as_And_package_as"/>
+          <include name="select_package_as_from_dropdown_box_and_select_Set_type_as_and_click_on_Search_button"/>
+          <include name="take_time_difference_from_Start_column_and_Stop_column_of_DSC_Adapter"/>
+        </methods>
+      </class> <!-- AdminUI_Adapter_Execution_Test.StepDef_AdminUI -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

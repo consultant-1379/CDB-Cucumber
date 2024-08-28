@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="AdminUI_Adapter_Execution_Test.StepDef_AdminUI_test">
+        <methods>
+          <include name="difference_should_be_less_than_minutes"/>
+        </methods>
+      </class> <!-- AdminUI_Adapter_Execution_Test.StepDef_AdminUI_test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
